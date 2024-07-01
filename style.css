@@ -72,7 +72,7 @@
     color: #6C6B6B;
 }
 .col-md-3 {
-    margin: 30px;
+    /* margin: 30px; */
     width: 270px;
     height: 270px;
     background-color: #F8FFFB;
@@ -99,12 +99,12 @@
     line-height: 1;
 }
 .content{
-    padding: 20px;
+    margin: 20px;
 }
 .text123 {
-    margin-left: 10px;
-    margin: 10px;
-    width: 420px;
+    /* margin-left: 10px;
+    margin: 10px; */
+    width: 370px;
     height: 483px;
     display: flex;
     justify-content: center;
@@ -122,6 +122,7 @@
     font-weight: 500;
     font-size: 24px;
     line-height: 1;
+    padding-right: 50px;
 }
 small{
     color: #585859;
@@ -173,4 +174,7 @@ footer{
     color: #CDCDCD;
     text-align: center;
     padding-bottom: 10px;
+}
+.courses-text{
+    padding-top: 50px;
 }
