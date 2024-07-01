@@ -1,0 +1,176 @@
+/* .container{
+    padding: 20px;
+} */
+.header{
+    background-color: #F0FFF0;
+    width: 1440px;
+    height: 576px;
+    /* padding: 20px; */
+}
+.p-2 a:hover{
+    font-size: 20px;
+}
+.logo{
+    width: 198px;
+    height: 59px;
+}
+/* .d-flex .p-2{
+    text-decoration: none;
+} */
+.btn{
+    background-color: #21B573;
+    color: white;
+    /* width: 104px;
+    height: 43px; */
+    border-radius: 33px;
+}
+.btn:hover{
+    background-color: lightseagreen;
+    color: white;
+    font-size: 20px;
+}
+.col-md-7 img{
+    max-width: 100%;
+    padding-right: 40px;
+
+}
+.col-md-6{
+    width: 554px;
+    height: 346px;
+    text-align: left;
+}
+.p-2 a{
+    text-decoration: none;
+}
+.testing small{
+    font-weight: 400px;
+    color: #FD511A;
+}
+ .testing{
+    padding-left: 20px;
+    padding-top: 60px;
+ }
+.testing h2{
+    font-size: 100px;
+    /* font-weight: 700px; */
+    line-height: 75px;
+}
+.color{
+    color: #21B573;
+}
+.testing h5{
+    font-weight: 400px;
+    color: #6C6B6B;
+    line-height: 40px;
+}
+#get-started{
+    width: 153px;
+    height: 43px;
+    margin-top: 20px;
+}
+#small1{
+    color: #6C6B6B;
+}
+.col-md-3 {
+    margin: 30px;
+    width: 270px;
+    height: 270px;
+    background-color: #F8FFFB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Ensures vertical alignment inside the div */
+}
+
+#white {
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.col-md-3 img {
+    max-width: 25%;
+    margin-bottom: 10px; /* Adds some space between the image and the text */
+}
+.content .text{
+    color: #413960;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1;
+}
+.content{
+    padding: 20px;
+}
+.text123 {
+    margin-left: 10px;
+    margin: 10px;
+    width: 420px;
+    height: 483px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Ensures vertical alignment inside the div */
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.text123 img {
+    max-width: 100%;
+    margin-bottom: 10px; /* Adds some space between the image and the text */
+}
+.content .text{
+    color: #413960;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1;
+}
+small{
+    color: #585859;
+    font-size: 16px;
+    font-weight: 500;
+}
+.calendar{
+    width: 24px;
+    height: 24px;
+}
+.calendar{
+    width: 24px;
+    height: 24px;
+}
+.people{
+    width: 24px;
+    height: 24px;
+}
+.courses, .testimonial{
+    text-align: center;
+    padding: 40px;
+    color: #413960;
+}
+#man{
+    width: 120px;
+    height: 120px;
+}
+#testm{
+    padding-right: 240px;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400px;
+}
+.testimonial1{
+    padding-bottom: 100px;
+}
+.footer-wiz{
+    background-color: #282531;
+    color: white;
+    padding: 20px;
+}
+.gaps{
+    padding-top: 40px;
+    padding-left: 80px;
+}
+footer{
+    background-color: #282531;
+    padding-top: 20px;
+    color: #CDCDCD;
+    text-align: center;
+    padding-bottom: 10px;
+}
