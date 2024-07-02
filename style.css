@@ -178,3 +178,7 @@ footer{
 .courses-text{
     padding-top: 50px;
 }
+#text-big{
+    font-weight: 600;
+    color: #413960;
+}
